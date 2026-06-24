@@ -1,6 +1,31 @@
+# 🎓 Sistema de Digitalización Institucional
+
+[![React](https://img.shields.io/badge/React-18.2-blue.svg)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8.svg)](https://tailwindcss.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ecf8e.svg)](https://supabase.com/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+Plataforma SaaS completa para la digitalización y gestión integral de instituciones educativas en Colombia. Sistema multiinstitucional con 4 planes escalonados y más de 20 módulos especializados.
+
+---
+
 # 📚 Sistema de Matrícula Digital
 
 Sistema completo de matrícula digital para instituciones educativas colombianas, desarrollado con React, Tailwind CSS y Supabase.
+
+## 🌟 Demo en Vivo
+
+🔗 **[Ver Demo](https://github.com/cevasz/Modulo_Academico)**
+
+## 📹 Video Demo
+
+[Próximamente]
+
+---
+
+## 🚀 Características Principales
+
+### 🎯 **3 Módulos Completamente Funcionales**
 
 ## 🎯 Características
 
